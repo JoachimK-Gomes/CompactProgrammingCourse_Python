@@ -1,2 +1,2 @@
-# CompactProgrammingCourse_Python
+# CompactProgrammingCourse_Python Tasks
 Repository for Python Compact Programming Course
